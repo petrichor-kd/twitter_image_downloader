@@ -1,0 +1,2 @@
+# twitter_image_downloader
+ツイッターで指定したアカウントから画像を保存します
